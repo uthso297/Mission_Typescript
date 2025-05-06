@@ -1,1 +1,1 @@
-const test = 'I am testing';
+const test: string = 'I am testing';
