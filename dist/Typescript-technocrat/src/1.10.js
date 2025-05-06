@@ -1,9 +1,9 @@
 "use strict";
 {
     const user1 = {
-        name: 'Iccha Fokinni',
-        email: 'iccha@pokinni.com',
-        gender: 'Male',
+        name: 'Scarlett',
+        email: 'scar@lett.com',
+        gender: 'Female',
         bloodGroup: 'B+',
     };
     console.log(user1);

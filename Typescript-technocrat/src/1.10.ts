@@ -22,9 +22,9 @@
     }
 
     const user1: User = {
-        name: 'Iccha Fokinni',
-        email: 'iccha@pokinni.com',
-        gender: 'Male',
+        name: 'Scarlett',
+        email: 'scar@lett.com',
+        gender: 'Female',
         bloodGroup: 'B+',
     }
     console.log(user1);
